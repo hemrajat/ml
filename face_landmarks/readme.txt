@@ -14,6 +14,6 @@ How to run
 
 2. Place them in a folder
 
-3. Also place your image in same folder
+3. Also place your image( default(swami_vivekanand.jpg) ) in same folder
 
-4. face_landmarks.py
+4. run face_landmarks.py
