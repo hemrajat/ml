@@ -34,7 +34,7 @@ def annotate_landmarks(im, landmarks):
             cv2.circle(im, pos, 3, (0, 255, 255),-1)
     return im
 
-image = cv2.imread('test.jpg')
+image = cv2.imread('swami_vivekanand.jpg')
 landmarks = get_landmarks(image)
 image_with_landmarks = annotate_landmarks(image, landmarks)
 cv2.imshow('Face landmarks',image_with_landmarks)
