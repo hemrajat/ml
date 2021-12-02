@@ -7,10 +7,11 @@ Note: Change the test.jpg to your image
 
 How to run
 
-1. Download all three file 
+1. Download all four file 
 	face_landmarks.py                     
 	readme.txt                            
 	shape_predictor_68_face_landmarks.dat
+	swami_vivekanand.jpg
 
 2. Place them in a folder
 
