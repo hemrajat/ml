@@ -2,7 +2,7 @@ You must have working OpenCV dlib and Numpy or install them from using pip
 
 You also must have trained predictor which is provided in same directory
 
-
+Download 68 face landmark dat file from https://github.com/davisking/dlib-models
 Note: Change the test.jpg to your image
 
 How to run
